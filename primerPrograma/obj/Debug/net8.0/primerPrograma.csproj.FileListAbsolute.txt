@@ -1,0 +1,15 @@
+C:\Users\ASUS\proyectos\c-sharp\c-sharp-lvl-uno\primerPrograma\bin\Debug\net8.0\primerPrograma.exe
+C:\Users\ASUS\proyectos\c-sharp\c-sharp-lvl-uno\primerPrograma\bin\Debug\net8.0\primerPrograma.deps.json
+C:\Users\ASUS\proyectos\c-sharp\c-sharp-lvl-uno\primerPrograma\bin\Debug\net8.0\primerPrograma.runtimeconfig.json
+C:\Users\ASUS\proyectos\c-sharp\c-sharp-lvl-uno\primerPrograma\bin\Debug\net8.0\primerPrograma.dll
+C:\Users\ASUS\proyectos\c-sharp\c-sharp-lvl-uno\primerPrograma\bin\Debug\net8.0\primerPrograma.pdb
+C:\Users\ASUS\proyectos\c-sharp\c-sharp-lvl-uno\primerPrograma\obj\Debug\net8.0\primerPrograma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\proyectos\c-sharp\c-sharp-lvl-uno\primerPrograma\obj\Debug\net8.0\primerPrograma.AssemblyInfoInputs.cache
+C:\Users\ASUS\proyectos\c-sharp\c-sharp-lvl-uno\primerPrograma\obj\Debug\net8.0\primerPrograma.AssemblyInfo.cs
+C:\Users\ASUS\proyectos\c-sharp\c-sharp-lvl-uno\primerPrograma\obj\Debug\net8.0\primerPrograma.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\proyectos\c-sharp\c-sharp-lvl-uno\primerPrograma\obj\Debug\net8.0\primerPrograma.sourcelink.json
+C:\Users\ASUS\proyectos\c-sharp\c-sharp-lvl-uno\primerPrograma\obj\Debug\net8.0\primerPrograma.dll
+C:\Users\ASUS\proyectos\c-sharp\c-sharp-lvl-uno\primerPrograma\obj\Debug\net8.0\refint\primerPrograma.dll
+C:\Users\ASUS\proyectos\c-sharp\c-sharp-lvl-uno\primerPrograma\obj\Debug\net8.0\primerPrograma.pdb
+C:\Users\ASUS\proyectos\c-sharp\c-sharp-lvl-uno\primerPrograma\obj\Debug\net8.0\primerPrograma.genruntimeconfig.cache
+C:\Users\ASUS\proyectos\c-sharp\c-sharp-lvl-uno\primerPrograma\obj\Debug\net8.0\ref\primerPrograma.dll
